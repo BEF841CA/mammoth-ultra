@@ -1,6 +1,8 @@
+/.idea
 /node_modules
 /_build
 /static/bootstrap
 /static/jszip
+/package-lock.json
 /mammoth.browser.js
 /mammoth.browser.min.js
